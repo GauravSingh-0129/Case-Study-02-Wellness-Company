@@ -1,0 +1,24 @@
+The UCLA Center for Human Nutrition says that eating fewer than 1,000 calories per day 
+has the same effect physiologically as total starvation. 
+With that in mind, it makes sense that the USDA Dietary Guidelines recommend a much higher 
+calorie level for health.
+
+The bare minimum of sleep needed to live, not just thrive, is 4 hours per 24-hour period.
+
+Removed duplicate column "TotalDistance".
+
+Added column "Active Minutes".
+
+
+Take 10,000 steps every day and you will meet the Centers for Disease Control and Prevention 
+and the Surgeon General's recommendation to log at least 30 minutes of moderate activity 
+most days of the week.
+
+
+Dr. Robert Rosenberg
+Too much sleep on a regular basis can increase the risk of diabetes, heart disease, stroke, 
+and death according to several studies done over the years. Too much is defined as greater 
+than nine hours.
+The most common cause is not getting enough sleep the night before, or cumulatively during 
+the week. This is followed by sleep disorders such as sleep apnea, idiopathic hypersomnolence, 
+as well as depression.
